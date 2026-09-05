@@ -1,5 +1,11 @@
 # Prosody Demo
 
+> [!NOTE]
+> **Archived for organizational consolidation.** This repository's history and
+> maintained research-derived demo now live in
+> [`yurei-so/research`](https://github.com/yurei-so/research/tree/main/demos/prosody-demo).
+> The migration preserves the evidence boundaries described below.
+
 A deliberately small web demo for comparing conversational endpointing strategies:
 
 - **Mode A — Silence / VAD:** conventional endpointing baseline.
